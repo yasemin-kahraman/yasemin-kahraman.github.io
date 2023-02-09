@@ -4,26 +4,9 @@
 * CompTIA Security+ certified Cyber Security Analyst with 1+ years of professional experience. 
 * Specialized in security analysis and incident response. 
 * Experience on hands-on projects in monitoring and analysis of potential and active threats using security tools and processes.
-* Mother of two handsome boys.
+* Happy wife and Mother of two handsome boys.
 * I love every aspect of Technology and 
 learning is endless journey for me... 
-
-## My Skills
----
-
-* Automation Development in Java and JS for:
-  * WebUI Testing,
-  * Database Testing, 
-  * API Testing,
-  * Desktop App Testing, 
-  * ADA Testing (POC)
-  * Combinatorial Testing (POC)
-* Test Management & Reporting with HP ALM & Jira
-* Tooling & POCs for multiple tools and Technologies 
-* CI/CD Pipeline involvement for Testing
-* Training, Mentoring & Consulting for Test Automation
-* Salesforce development with Apex & VisualForce
-* MuleSoft API development and Salesforce integration
 
 ## Tools & Technologies
 ---
